@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning ... Dlang
 - 💞️ I’m looking to collaborate on ... Dlang
 - 📫 How to reach me ... Dlang.com xd
-- 😄 Pronouns: ... Jhon
 - ⚡ Fun fact: ... Dlang
 <!--
  repository because its `README.md` (this file) appears on your GitHub profile.
