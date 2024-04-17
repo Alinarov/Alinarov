@@ -1,10 +1,5 @@
-### Hi there 👋
+### Hi there, I’m 👋 **walter8wagner/walter8wagner**  ✨ _special_ ✨
 
-<!--
-**walter8wagner/walter8wagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👋 Hi, I’m @espartan9enigma
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... IA
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... Dlang.com xd
 - 😄 Pronouns: ... Jhon
 - ⚡ Fun fact: ... Dlang
+<!--
+ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
   -->
