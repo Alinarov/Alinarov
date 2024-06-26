@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 
   -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/124px-D_Programming_Language_logo.svg.png" alt="latex" width="40" height="40"/>
 </p>
