@@ -1,4 +1,4 @@
-### Hi there, I’m 👋 **walter8wagner**  ✨ _special_ ✨
+# Hi there, I’m 👋 **walter8wagner**  ✨ _special_ ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... IA
