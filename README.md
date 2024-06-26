@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://images.ctfassets.net/gt6dp23g0g38/6GTi78BuMxrv2VPtvpgcby/42b2ef53b0a4116fc53835f720b63312/d.jpg" alt="latex" width="40" height="40"/>
+<img src="https://www.saashub.com/images/app/service_logos/10/ca7d1ad40fec/large.png?1529502024" alt="D" width="40" height="40"/>
 </p>
