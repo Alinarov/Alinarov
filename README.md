@@ -8,7 +8,7 @@
 - 👀 Estoy interesado en ***Dlang*** y su uso en proyectos en la nube **☁️**.
 - 🌱 Actualmente estoy aprendiendo *Dlang* y sus bibliotecas para desarrollo de *IA* 📚.
 - 💞️ Estoy buscando colaborar en proyectos de **Dlang** relacionados con la nube 🌍.
-- 📫 Cómo contactarme ... Dlang.com xd ✉️.
+- 📫 Cómo contactarme ... ![mi web](https://alinarov.github.io/) xd ✉️.
 - ⚡ Dato curioso: Dlang tiene características que facilitan la programación en entornos de alta concurrencia 🚀.
 <!--
  repository because its `README.md` (this file) appears on your GitHub profile.
