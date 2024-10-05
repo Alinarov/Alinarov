@@ -1,4 +1,4 @@
-# Hi there, I’m 👋 **walter8wagner**  ✨ _special_ ✨
+# Hi there, I’m 👋 **Alinarov**  ✨ _special_ ✨
 
 - 🔭 Actualmente estoy trabajando en **proyectos** de programación en ***D*** 💻.
 - 🌱 Actualmente estoy aprendiendo sobre **IA** y su implementación en **Python** 🤖.
