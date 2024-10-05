@@ -1,15 +1,15 @@
 # Hi there, I’m 👋 **walter8wagner**  ✨ _special_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... IA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... programming and haking
-- 👀 I’m interested in ... Dlang
-- 🌱 I’m currently learning ... Dlang
-- 💞️ I’m looking to collaborate on ... Dlang
-- 📫 How to reach me ... Dlang.com xd
-- ⚡ Fun fact: ... Dlang
+- 🔭 Actualmente estoy trabajando en **proyectos** de programación en ***D*** 💻.
+- 🌱 Actualmente estoy aprendiendo sobre **IA** y su implementación en **Python** 🤖.
+- 👯 Estoy buscando colaborar en desarrollo de aplicaciones en **D** y ***Python*** 🤝.
+- 🤔 Estoy buscando ayuda con la programación de sockets en ***C*** 🔌.
+- 💬 Pregúntame sobre programación y hacking, especialmente en *D* y *Python* 💡.
+- 👀 Estoy interesado en ***Dlang*** y su uso en proyectos en la nube **☁️**.
+- 🌱 Actualmente estoy aprendiendo *Dlang* y sus bibliotecas para desarrollo de *IA* 📚.
+- 💞️ Estoy buscando colaborar en proyectos de **Dlang** relacionados con la nube 🌍.
+- 📫 Cómo contactarme ... Dlang.com xd ✉️.
+- ⚡ Dato curioso: Dlang tiene características que facilitan la programación en entornos de alta concurrencia 🚀.
 <!--
  repository because its `README.md` (this file) appears on your GitHub profile.
 
